@@ -1,0 +1,55 @@
+body{
+    background-image: url(https:c.wallhere.com/photos/71/29/Dear_Esther_Source_Engine_entertainment_video_games-174211.jpg!d);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 10px solid white;
+    background-color: rgba(247, 243, 242, 0.7);
+    border-radius: 20px;
+    text-align: center;
+}
+
+button{
+    border: 1px solid white;
+    
+}
+
+.form-control {
+    height: 80px;
+    font-size: 3vw;
+    margin-right: 20px;
+    text-align: center;
+    
+}
+
+.button-style {
+    height: 80px;
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 50px;
+    font-size: 30pt;
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+    border: 2px solid gray;
+    color: white;
+}
+
+.button-style-reset{
+    height: 80px;
+        width: 120px;
+        margin-top: 5px;
+        border-radius: 50px;
+        font-size: 30pt;
+        font-weight: bold;
+        text-align: center;
+        background-color: yellowgreen;
+        border: 2px solid gray;
+        color: white;
+}
